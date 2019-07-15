@@ -1,4 +1,4 @@
-/* describe('objects', function() {
+describe('objects', function() {
   describe('Scooter constructor', function(){
     it("should create a new scooter with three properties", function(){
       let samson = new Scooter(2015, "red", "swoosh");
@@ -28,4 +28,4 @@
       expect(poshHotel.city).to.equal("New York City");
     });
   });
-}); */
+});
